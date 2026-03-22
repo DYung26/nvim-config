@@ -1,1 +1,1 @@
-/home/dyung/Projects/dotfiles/config/init.lua
+/home/dyung/Projects/dotfiles/config/nvim/init.lua
